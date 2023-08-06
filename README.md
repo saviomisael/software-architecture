@@ -1,7 +1,8 @@
 # Section 4 - The Architecture Process
 
 Processo
-: - entender os requisitos do sistema (O que o sistema faz)
+: Passos:
+  - entender os requisitos do sistema (O que o sistema faz)
   - entender os requisitos não funcionais
   - mapear os componentes (Representa as tarefas do sistema)
   - selecionar a stack (Selecionar as tecnologias que serão usadas no backend, no frontend e no banco de dados)
